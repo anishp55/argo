@@ -3,6 +3,5 @@ kind: Kustomization
 resources:
   - central
   - overlays/sales
-  - overlays/engineering
   - overlays/finance
   - overlays/it
