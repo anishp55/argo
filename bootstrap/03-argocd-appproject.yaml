@@ -10,7 +10,7 @@ spec:
 
   # Allow only this Git repository as source
   sourceRepos:
-    - https://github.com/rakeshsurapaneni/argo
+    - https://github.com/anishp55/argo
 
   # Allow deployment to the management cluster across all NKP namespaces
   destinations:
